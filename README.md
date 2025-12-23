@@ -1,4 +1,4 @@
-# Moyosore Hicks | Senior Technical Product Manager & QA Engineer
+# Moyo Hicks | Senior Technical Product Manager & QA Engineer
 
 I am a hybrid Product Leader with over 5 years of experience, specialising in building and scaling complex software ecosystems. My unique background as a **Foundational QA Engineer** combined with **Senior Product Leadership** allows me to build products that are not just strategically aligned with business goals, but technically robust and user-centric.
 
