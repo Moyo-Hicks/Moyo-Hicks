@@ -6,7 +6,7 @@ I am a hybrid Product Leader with over 5 years of experience, specialising in bu
 - **Fintech Scale:** Directed the launch of Mima Business, processing **$15 Million+** in transactions within the first year.
 - **Logistics Excellence:** Optimised internal tools at **Kobo360** (across 6 African countries), reducing truck diversion to **0.02%**.
 - **Quality First:** Directed UAT cycles for multiple products, identifying **critical bugs** before launch to ensure 99.9% platform readiness.
-- **AI Strategy:** Formulated AI-driven automation strategies for BPM solutions, projecting an **increase** in operational efficiency.
+- **AI Strategy:** Formulated AI-driven automation strategies for BPM solutions, projecting a ** 40% increase** in operational efficiency.
 
 ### 🛠️ Technical Toolkit
 - **Product:** Strategy & Roadmapping, PRDs, Market Research, Product-Led Growth (PLG).
